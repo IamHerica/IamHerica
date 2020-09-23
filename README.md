@@ -15,12 +15,11 @@
 
 <br>
 
-<br>**Hi everyone! I'm Herica, student of Information Tecnology 💙 18 years old and live in São Paulo, Brazil** 💙
+<br>**Hi everyone! I'm Herica, an Information Technology student 👩🏻‍💻 18 years old and live in São Paulo, Brazil** 💙
 <br>
-**I am at the beginning of my eternal learning process in I.T, and I will use my GitHub to eternalize it and maybe help someone. Nice to meet you and enjoy!**
+**I am at the beginning of my lifelong IT learning process and will use my GitHub to immortalize it and perhaps help someone else. Nice to meet you and enjoy!**
 
-
-**See you around, programmer!**
+**_See you around, programmer!_**
 
 
 ![gif](cat.gif)
