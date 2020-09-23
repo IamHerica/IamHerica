@@ -1,5 +1,5 @@
 
-# _Hello, stalker!_
+# _printf("Hello, World");_
 <a target="_blank" href="https://www.linkedin.com/in/h%C3%A9rica-cadoni-35519a198/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -12,16 +12,12 @@
 <a target="_blank" href="mailto:hericacadoni@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<br>
+
+**Hi everyone! I'm Herica, student of Information Tecnology 💙 18 years old and live in São Paulo, Brazil** 💙
 
 
-
-Hi everyone! My names's Herica, 18 years old and a information tecnology student 😸
-
-You can get to know me better at:
-* [Instagram](https://www.instagram.com/iamhericaa/)
-* [LinkedIn](https://www.linkedin.com/in/h%C3%A9rica-cadoni-35519a198/)
-
-I hope I can help you! see you around, programmer!
+See you around, programmer!
 
 
 ![gif](gif2.gif)
