@@ -23,5 +23,5 @@
 **See you around, programmer!**
 
 
-![gif](gif2.gif)
+![gif](cat.gif)
 
