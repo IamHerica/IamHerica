@@ -21,6 +21,5 @@
 
 **_See you around, programmer!_**
 
-
-![gif](cat.gif)
+<img src="https://www.codeotaku.com/about/chi-keyboard.gif" width="600"/>
 
