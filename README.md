@@ -1,4 +1,4 @@
 
-# Hello, stalker!
-## Posso te ajudar?
- This repository is about my github profile
+# _Hello, stalker!_
+***
+Hi everyone! My names's Herica, 18 years old and a information tecnology student 😸
