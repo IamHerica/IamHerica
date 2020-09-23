@@ -1,6 +1,5 @@
 
 # _Hello, stalker!_
-***
 Hi everyone! My names's Herica, 18 years old and a information tecnology student 😸
 
 You can get to know me better at:
