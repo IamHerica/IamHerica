@@ -15,7 +15,7 @@
 
 <br>
 
-<br>**Hi everyone! I'm Herica, an Information Technology student 👩🏻‍💻 18 years old and live in São Paulo, Brazil** 💙
+<br>**Hi everyone! I'm Herica, an Information Technology student 👩🏻‍💻 18 years old ** 💙
 <br>
 **I am at the beginning of my lifelong IT learning process and will use my GitHub to immortalize it and perhaps help someone else. Nice to meet you and enjoy!**
 
