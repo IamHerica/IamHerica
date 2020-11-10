@@ -1,7 +1,7 @@
 
 ## _printf("Hello, World");_
 <a target="_blank" href="https://www.linkedin.com/in/h%C3%A9rica-cadoni-35519a198/">
-  <img align="left" alt="LinkdeIn" width="50px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
+  <img align="left" alt="LinkdeIn" width="30px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5519999138267">
   <img align="left" alt="Whatsapp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
