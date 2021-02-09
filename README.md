@@ -1,7 +1,7 @@
 <h1 align="center">I'm Hérica</h1>
 <h3 align="center">printf("Hello, World");</h3>
 
-<br>**Hi everyone! I'm Herica, an Information Technology student 👩🏻‍💻 💙
+<br>**Hi everyone! I'm Herica, an Information Technology student** 👩🏻‍💻 💙
 <br>
 **I am at the beginning of my lifelong IT learning process and will use my GitHub to immortalize it and perhaps help someone else. Nice to meet you and enjoy!**
 
