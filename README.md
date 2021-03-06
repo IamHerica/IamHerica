@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamherica](https://github.com/iamherica)
 
-- 📫 How to reach me **<a target="_top" href="mailto:hericacadoni@gmail.com">mailto:hericacadoni@gmail.com</a>**
+- 📫 How to reach me **<a target="_top" href="mailto:hericacadoni@gmail.com">hericacadoni@gmail.com</a>**
 
 - 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1h_KrWbYUBVQDHurx13S-r9clSewdOGk-/view?usp=sharing)
 
