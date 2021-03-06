@@ -40,4 +40,3 @@
 </table>
 </center>
 
-<img src="https://www.codeotaku.com/about/chi-keyboard.gif" width="600"/>
