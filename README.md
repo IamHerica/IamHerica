@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamherica&theme=alduin" alt="iamherica" /></a> </p>
 
-- 🌱 I’m currently learning **Java OO**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamherica](https://github.com/iamherica)
 
