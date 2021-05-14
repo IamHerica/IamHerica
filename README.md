@@ -1,5 +1,5 @@
 <h1 align="center">I'm Hérica</h1>
-<h3 align="center">printf("Hello, World");</h3>
+<h3 align="center">Console.WriteLine("Hello, dev!");</h3>
 
 <br>**Hi everyone! I'm Herica, an Information Technology student** 👩🏻‍💻 💙
 <br>
