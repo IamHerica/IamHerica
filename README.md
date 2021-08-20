@@ -9,9 +9,7 @@
 
  Para saber mais sobre mim, veja [meu currículo](https://drive.google.com/file/d/1h_KrWbYUBVQDHurx13S-r9clSewdOGk-/view?usp=sharing)
 
-
-<br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguages e ferramentas:</h3>
 
 <a href="https://www.w3schools.in/c-tutorial/intro/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="html" width="" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="html" width="" height="35"/> </a>
