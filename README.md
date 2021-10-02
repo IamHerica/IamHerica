@@ -5,9 +5,7 @@
   <li>Estudante de sistemas de informação</li>
   <li>Estagiária no maior banco da America Latina, o Itaú Unibanco 🧡 </li>
   <li>Residente de Mogi-Guaçu SP</li>
-</lu><br>
-
- Para saber mais sobre mim, veja [meu currículo](https://drive.google.com/file/d/1h_KrWbYUBVQDHurx13S-r9clSewdOGk-/view?usp=sharing)
+</lu>
 
 <h3 align="left">Linguages e ferramentas:</h3>
 
