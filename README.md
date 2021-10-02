@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou a Hérica</h1>
-<h3 align="center">Console.Writeline("bem vindo!");</h3>
+
 
 <lu>
   <li>Estudante de sistemas de informação</li>
