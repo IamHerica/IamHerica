@@ -7,20 +7,6 @@
   <li>Residente de Mogi-Guaçu SP</li>
 </lu>
 
-<h3 align="left">Linguages e ferramentas:</h3>
-
-<a href="https://www.w3schools.in/c-tutorial/intro/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="html" width="" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="html" width="" height="35"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/452/visual-studio.png" alt="html" width="" height="35"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" alt="html" width="" height="35"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" alt="html" width="" height="35"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" alt="html" width="" height="35"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="html" width="" height="35"/> </a>
-<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="html" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" alt="html" width="" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-
-
 <center>
 <table>
   <tr>
