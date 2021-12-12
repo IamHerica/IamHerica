@@ -3,7 +3,7 @@
 
 <lu>
   <li>Estudante de sistemas de informação</li>
-  <li>Estagiária no maior banco da America Latina, o Itaú Unibanco 🧡 </li>
+  <li>Estagiária no Itaú Unibanco 🧡 </li>
   <li>Residente de Mogi-Guaçu SP</li>
 </lu>
 
