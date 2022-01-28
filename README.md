@@ -25,4 +25,6 @@
    <th><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e47sruj2tyu6bblxvv0bz7cf5idees1nhwdn6nh2npb&rid=giphy.gif&ct=g" width="300"/></th>
  </table>
 
+[![Visits Badge](https://badges.pufler.dev/visits/iamherica/iamherica)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/iamherica)](https://badges.pufler.dev)
 
