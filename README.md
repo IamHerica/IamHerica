@@ -16,15 +16,6 @@
 </table>
 </center>
 
-
-<table>
-  <th><img src="https://media.giphy.com/media/oadZJB3hwMFjy/giphy.gif?cid=ecf05e47uvab12e1z1yycsfjdxtorwqh5v6ia5ozlwz73o5a&rid=giphy.gif&ct=g" width="400"/>
-</th>
-  <th><img src="https://media.giphy.com/media/xT0xemhmFReKIH4voA/giphy.gif?cid=ecf05e47fspwc5ul37xq9d2jg36jppba7ov615k82ll5qktf&rid=giphy.gif&ct=g" width="521"/>
-</th>
-   <th><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e47sruj2tyu6bblxvv0bz7cf5idees1nhwdn6nh2npb&rid=giphy.gif&ct=g" width="300"/></th>
- </table>
-
 [![Visits Badge](https://badges.pufler.dev/visits/iamherica/iamherica)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/iamherica)](https://badges.pufler.dev)
 
