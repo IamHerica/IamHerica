@@ -28,15 +28,24 @@
 <p align="center">  
   <a href="https://github.com/bragabriel/github-readme-stats">
     <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=iamherica&theme=onedark">
+  </a>
   <a href="https://github.com/bragabriel/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamherica&theme=onedark&layout=compact">
-</a>
   </a>
 </p>
 
-[![Visits Badge](https://badges.pufler.dev/visits/iamherica/iamherica)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/iamherica)](https://badges.pufler.dev)
-   
+<br>
+
+<div align="center">
+
+  ![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=IamHerica.visitor-badge&left_text=Visitors&right_color=pink&left_color=MediumSlateBlue)<br>
+  
+  ![GitHub User's stars](https://img.shields.io/github/stars/IamHerica?color=%23ff69b4&logoColor=%23ff69b4&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
+  ![GitHub followers](https://img.shields.io/github/followers/IamHerica?logoColor=%23ff69b4&style=social)
+
+
+</div>
+
 </details>
 
 ---
@@ -44,6 +53,7 @@
  <img height="40" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/> [_Hérica Cadoni](https://www.linkedin.com/in/h%C3%A9rica-cadoni/)
  <br>
  <img height="40" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> [_Iamhericaa](https://www.instagram.com/iamhericaa/)
+ 
 
 
 
