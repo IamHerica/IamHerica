@@ -49,7 +49,8 @@
 </details>
 
 ---
-
+ <img height="40" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/> [_AWS Certified Cloud Practitioner](https://www.credly.com/badges/3e99a3ef-964c-4091-a14d-06a1f5405796/linked_in?t=rer0c0)
+ <br>
  <img height="40" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/> [_Hérica Cadoni](https://www.linkedin.com/in/h%C3%A9rica-cadoni/)
  <br>
  <img height="40" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> [_Iamhericaa](https://www.instagram.com/iamhericaa/)
