@@ -2,7 +2,7 @@
   <summary> <b> _Quer saber sobre mim? </b> <i>(só expandir a setinha!)</i> </summary><br>
 
  - 🌱 Atualmente trabalhando e estudando [.NET](https://dotnet.microsoft.com/), amando (e às vezes odiando) cada segundo!
- - 🧡 Estagiária de desenvolvimento backend no Itáu Unibanco, mais especificamente no app de investimentos íon 💚
+ - 🧡 Desevolvedora backend junior no Itáu Unibanco, mais especificamente no app de investimentos íon 💚
    
 #### - Algumas coisinhas que já mexi durante minha vida de dev:
   
